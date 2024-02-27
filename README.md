@@ -74,3 +74,4 @@ Have Fun!!
 
 xbox_hdd
 
+# xemu-xbox-emulator-files
